@@ -40,3 +40,15 @@ knowyourmeme.com##.beehiiv-newsletter-signup-container
 knowyourmeme.com###spp-gallery
 knowyourmeme.com###footer
 knowyourmeme.com###sub_network_footer_wrapper
+
+! pokeharbor
+www.pokeharbor.com##.reaction-section
+www.pokeharbor.com##.comment-box-wrap
+www.pokeharbor.com##.single-related-outer
+www.pokeharbor.com##.sidebar-sticky.widget-area.rbc-sidebar
+www.pokeharbor.com##.rb-n20-gutter.box-nav.single-post-box
+www.pokeharbor.com##.entry-footer
+www.pokeharbor.com##.single-bottom-share
+www.pokeharbor.com##.footer-wrap
+www.pokeharbor.com##.ub-bordered-box.ub-styled-box.wp-block-ub-styled-box
+www.pokeharbor.com##.ub-bordered-box.ub-styled-box.wp-block-ub-styled-box
