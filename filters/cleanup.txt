@@ -1,0 +1,42 @@
+! Title: [snk] cleanup
+! Version: 20240607
+! Expires: never
+! Description: misc cleanups
+! Homepage: https://github.com/deerszn/qol/
+
+! imgur
+imgur.com##.BottomRecirc
+imgur.com##.Gallery-Sidebar
+imgur.com##.NavbarContainer-center
+imgur.com##.Gallery-EngagementBar
+imgur.com##.BottomRecirc
+imgur.com##.Gallery-Sidebar
+
+! tumblr
+www.tumblr.com##.eoHPO
+www.tumblr.com##.RRPPS
+www.tumblr.com##.e0Nag.lEl3a
+www.tumblr.com##.Gszso
+www.tumblr.com##.xrsGX
+
+! know your meme
+knowyourmeme.com###global-message
+knowyourmeme.com###navigation
+knowyourmeme.com###leaderboard
+knowyourmeme.com###trending-bar
+knowyourmeme.com###mast_links
+knowyourmeme.com###search
+knowyourmeme.com###content > .right
+knowyourmeme.com##.fave
+knowyourmeme.com##.floating-fixed.floating-bar
+knowyourmeme.com##.right.stats
+knowyourmeme.com###search-interest
+knowyourmeme.com##.lazy-iframe.google-trends-iframe
+knowyourmeme.com##.section_content.related_memes
+knowyourmeme.com###videos
+knowyourmeme.com###photos
+knowyourmeme.com###comments
+knowyourmeme.com##.beehiiv-newsletter-signup-container
+knowyourmeme.com###spp-gallery
+knowyourmeme.com###footer
+knowyourmeme.com###sub_network_footer_wrapper
