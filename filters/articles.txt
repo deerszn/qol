@@ -1,0 +1,29 @@
+! Title: [snk] articles
+! Version: 20240607
+! Expires: never
+! Description: cleans up articles and news websites
+! Homepage: https://github.com/deerszn/qol/
+
+! the hill
+thehill.com##.col-sidebar-left
+thehill.com##.col-sidebar-right
+thehill.com##.border-bottom.header-highlighted-area
+thehill.com##.supernav
+
+! usa today
+www.usatoday.com##a.gnt_cw_sl:nth-of-type(1)
+www.usatoday.com##.teal-video-wrap
+www.usatoday.com##.gnt_n_mn
+
+! the guardian
+www.theguardian.com##.dcr-henwc > gu-island
+www.theguardian.com##nav.dcr-yvt6mp
+
+! the spruce
+www.thespruce.com##.jw-reset.jw-wrapper
+www.thespruce.com##.freemarker\.template\.TrueTemplateBooleanModel\@f643c8f.freemarker\.template\.FalseTemplateBooleanModel\@684b11d0.is-stuck.journey-nav--sticky.mntl-block.journey-nav.journey-nav--article.comp
+www.thespruce.com##.header-search.header__search.comp
+www.thespruce.com##.header__mobile-menu-toggle.mobile-menu-toggle.loc
+www.thespruce.com###article__primary-video-jw_1-0 > .jw-reset.jw-aspect
+www.thespruce.com##.mntl-block.mntl-jwplayer-broad.article__broad-video-jw.comp
+www.thespruce.com##.mntl-block.prefooter.comp
