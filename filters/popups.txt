@@ -1,0 +1,11 @@
+! Title: [snk] popups
+! Version: 20240607
+! Expires: never
+! Description: removes popups, like for newsletters and cookie notices
+! Homepage: https://github.com/deerszn/qol/
+
+! unsplash 
+unsplash.com##.ehKFX
+
+! phosphor icons
+phosphoricons.com##.banner-container
