@@ -27,3 +27,9 @@ www.thespruce.com##.header__mobile-menu-toggle.mobile-menu-toggle.loc
 www.thespruce.com###article__primary-video-jw_1-0 > .jw-reset.jw-aspect
 www.thespruce.com##.mntl-block.mntl-jwplayer-broad.article__broad-video-jw.comp
 www.thespruce.com##.mntl-block.prefooter.comp
+
+! sunnyskyz
+www.sunnyskyz.com###nav
+www.sunnyskyz.com###rightcol
+www.sunnyskyz.com###disqus_thread
+www.sunnyskyz.com###disqus_recommendations
