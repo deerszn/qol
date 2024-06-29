@@ -1,6 +1,5 @@
 ! Title: [snk] popups
-! Version: 20240607
-! Expires: never
+! Version: 20240628
 ! Description: removes popups, like for newsletters and cookie notices
 ! Homepage: https://github.com/deerszn/qol/
 
