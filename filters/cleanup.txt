@@ -1,6 +1,5 @@
 ! Title: [snk] cleanup
-! Version: 20240607
-! Expires: never
+! Version: 20240628
 ! Description: misc cleanups
 ! Homepage: https://github.com/deerszn/qol/
 
