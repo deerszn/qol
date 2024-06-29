@@ -1,6 +1,5 @@
 ! Title: [snk] articles
-! Version: 20240607
-! Expires: never
+! Version: 20240628
 ! Description: cleans up articles and news websites
 ! Homepage: https://github.com/deerszn/qol/
 
