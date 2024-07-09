@@ -12,6 +12,9 @@ imgur.com##.Gallery-EngagementBar
 imgur.com##.BottomRecirc
 imgur.com##.Gallery-Sidebar
 
+! reddit
+old.reddit.com##.read-next-container
+
 ! tumblr
 www.tumblr.com##.eoHPO
 www.tumblr.com##.RRPPS
@@ -40,15 +43,20 @@ knowyourmeme.com##.beehiiv-newsletter-signup-container
 knowyourmeme.com###spp-gallery
 knowyourmeme.com###footer
 knowyourmeme.com###sub_network_footer_wrapper
+knowyourmeme.com##.mobile-only > .shopify-container
+knowyourmeme.com##.thumbs
+knowyourmeme.com##.thumb_mini_container
+knowyourmeme.com###media_arrows
+knowyourmeme.com##.related-photos.section_body
+trending.knowyourmeme.com##.c.section_content
 
-! pokeharbor
-www.pokeharbor.com##.reaction-section
-www.pokeharbor.com##.comment-box-wrap
-www.pokeharbor.com##.single-related-outer
-www.pokeharbor.com##.sidebar-sticky.widget-area.rbc-sidebar
-www.pokeharbor.com##.rb-n20-gutter.box-nav.single-post-box
-www.pokeharbor.com##.entry-footer
-www.pokeharbor.com##.single-bottom-share
-www.pokeharbor.com##.footer-wrap
-www.pokeharbor.com##.ub-bordered-box.ub-styled-box.wp-block-ub-styled-box
-www.pokeharbor.com##.ub-bordered-box.ub-styled-box.wp-block-ub-styled-box
+! pinterest
+pinterest.com##.A6h.C9i.un8.ujU.jzS > div.xuA > .Hsu.iyn.zI7 > .L4E.Tbt.eEj.S9z.CCY
+pinterest.com##.Hsu.iyn.zI7.kKU.MMr
+www.pinterest.com##.TB_.C9i.un8.ujU.jzS > div.xuA > .Hsu.iyn.zI7
+www.pinterest.com##.Hsu.iyn.zI7.MtH.Ll2
+www.pinterest.com##.Hsu.iyn.zI7.oy8 > .Hsu.iyn.zI7 > .Hsu.iyn.zI7.XiG
+www.pinterest.com##.Hsu.iyn.zI7.oy8 > .Hsu.iyn.zI7 > .Hsu.iyn.zI7 > .Hsu.iyn.zI7.XiG
+www.pinterest.com##.TB_.C9i.un8.ujU.hs0 > .Hsu.iyn.zI7.jzS.Jea > .qiB
+www.pinterest.com##.zmN.Hsu.iyn.zI7.dxm > div.Hsu.iyn.zI7 > .Hsu.iyn.zI7 > .Hsu.iyn.zI7.hUC
+www.pinterest.com##.Hsu.iyn.zI7.MMr > .Hsu.iyn.zI7
