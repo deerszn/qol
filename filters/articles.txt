@@ -10,14 +10,16 @@ thehill.com##.col-sidebar-right
 thehill.com##.border-bottom.header-highlighted-area
 thehill.com##.supernav
 
+! smithsonianmag.com
+www.smithsonianmag.com##.articleRight
+
 ! usa today
 www.usatoday.com##a.gnt_cw_sl:nth-of-type(1)
 www.usatoday.com##.teal-video-wrap
 www.usatoday.com##.gnt_n_mn
 
-! the guardian
-www.theguardian.com##.dcr-henwc > gu-island
-www.theguardian.com##nav.dcr-yvt6mp
+! polygon
+www.polygon.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
 
 ! the spruce
 www.thespruce.com##.jw-reset.jw-wrapper
@@ -33,3 +35,9 @@ www.sunnyskyz.com###nav
 www.sunnyskyz.com###rightcol
 www.sunnyskyz.com###disqus_thread
 www.sunnyskyz.com###disqus_recommendations
+
+! https://www.cbc.ca
+www.cbc.ca##.detailSideRail
+
+! freedomnews.org.uk
+freedomnews.org.uk##.open.jetpack-subscribe-modal
