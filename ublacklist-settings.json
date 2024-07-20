@@ -1,0 +1,178 @@
+{
+  "blacklist": "",
+  "blockWholeSite": false,
+  "skipBlockDialog": false,
+  "hideBlockLinks": false,
+  "hideControl": false,
+  "enablePathDepth": false,
+  "linkColor": "default",
+  "blockColor": "default",
+  "highlightColors": [
+    "#ddeeff"
+  ],
+  "dialogTheme": "default",
+  "syncBlocklist": true,
+  "syncGeneral": false,
+  "syncAppearance": false,
+  "syncSubscriptions": false,
+  "syncInterval": 15,
+  "subscriptions": [
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/HerXayah/ublacklist-ai/main/ublacklist-ai.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription/raw/branch/main/list.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/global.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-ext-ovk.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://codeberg.org/Freso/ublacklist-w3schools/raw/branch/main/ublacklist-w3schools.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist_UBL.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "yelp",
+      "url": "https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "minecraft mod reposters",
+      "url": "https://api.stopmodreposts.org/minecraft/ublacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-fakepng.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://pastebin.com/raw/yZeXbcfG",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/HO-0520-IT/uBlacklist-malicious-sites/master/list.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/ite-usagi/ublacklist-noai/main/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/proudust/uBlacklist-Subscription/master/blacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/wherelse/content-farm-blacklist/main/blacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://pgl.yoyo.org/as/serverlist.php?hostformat=plain&mimetype=plaintext&prepend=*://*.&append=/*&showintro=0",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/NyeUsr/Blacklist/main/uBlacklist/Amazon.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/NyeUsr/Blacklist/main/uBlacklist/Facebook.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/NyeUsr/Blacklist/main/uBlacklist/Microsoft.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/PrincessAkira/ublacklist-ai/main/ublacklist-ai.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription/raw/branch/main/list.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/Chamiu/Search-Block-Parasiticide/master/Matome.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/exoego/ublacklist-scam-net-shops/master/uBlacklist.txt",
+      "enabled": true
+    }
+  ],
+  "updateInterval": 120,
+  "version": "8.9.0"
+}
