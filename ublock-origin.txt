@@ -1,0 +1,242 @@
+! Jul 29, 2024 https://www.tumblr.com
+www.tumblr.com##aside > div.FZkjV > div
+www.tumblr.com##div.HEUmc:nth-of-type(1)
+www.tumblr.com##div.HEUmc:nth-of-type(2)
+www.tumblr.com##.Mpq8f.EPQuf > .BPf9u
+www.tumblr.com##.APC7N.EPQuf > .BPf9u
+www.tumblr.com##.e0Nag.lEl3a
+www.tumblr.com##.c79Av > .FtjPK > .qYXF9 > .tOKgq > div.m5KTc > .gstmW > .BPf9u > .BPf9u > .rlv6m.TRX6J > .RHkx9.EvhBA > .zrO3e > span > .vE6sH > .xu5ZG > .lJK40
+www.tumblr.com##._vT58.ykm3O > span
+www.tumblr.com##.ztxCq.ykm3O > span
+www.tumblr.com##.gLEjz
+
+! Jul 29, 2024 https://www.youtube.com
+www.youtube.com###structured-description
+
+! Jul 29, 2024 https://www.huffpost.com
+www.huffpost.com###most-shared
+www.huffpost.com###related
+www.huffpost.com##.cli-related-articles__content-wrapper
+www.huffpost.com###rightRailTrending
+
+! Jul 29, 2024 https://knowyourmeme.com
+knowyourmeme.com###spp-gallery
+knowyourmeme.com##.beehiiv-newsletter-signup-container
+knowyourmeme.com###comments
+knowyourmeme.com###content > .right
+knowyourmeme.com###leaderboard
+knowyourmeme.com###trending-bar
+knowyourmeme.com###global-message
+knowyourmeme.com###navigation
+knowyourmeme.com###mast_links
+knowyourmeme.com##.fave
+knowyourmeme.com##.right.stats
+knowyourmeme.com##.floating-fixed.floating-bar
+knowyourmeme.com##.thumbs
+knowyourmeme.com##.thumb_mini_container
+knowyourmeme.com###media_arrows
+knowyourmeme.com##.related-photos.section_body
+knowyourmeme.com###footer
+knowyourmeme.com###sub_network_footer_wrapper
+
+! Jul 29, 2024 https://www.thespruce.com
+www.thespruce.com##.mntl-block.mntl-jwplayer-broad.article__broad-video-jw.comp
+
+! Aug 1, 2024 https://x.com
+x.com##.r-1udh08x.r-1hycxz.r-10f7w94.r-aqfbo4.css-175oi2r > .r-1pi2tsx.css-175oi2r
+x.com##.r-pt392.r-o96wvk.css-175oi2r
+x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
+
+! Aug 4, 2024 https://knowyourmeme.com
+knowyourmeme.com##.actions
+knowyourmeme.com##.collection-header > .right
+knowyourmeme.com##.extra-large-only.sidebar
+knowyourmeme.com##.desktop-only.gallery-navigation
+knowyourmeme.com##main > div > .gallery
+knowyourmeme.com##footer
+knowyourmeme.com##nav
+knowyourmeme.com###search_form
+knowyourmeme.com##.lazy-iframe.google-trends-iframe
+knowyourmeme.com###search-interest
+knowyourmeme.com##.article > .info-panel
+knowyourmeme.com##.related-container
+knowyourmeme.com##main > .gallery
+knowyourmeme.com##hr
+knowyourmeme.com##.article > .list
+knowyourmeme.com##div.blue-links
+knowyourmeme.com##.top-gallery
+
+! Aug 5, 2024 https://animationscreencaps.com
+animationscreencaps.com##.comment-respond
+animationscreencaps.com##.comments-area
+
+! Aug 6, 2024 https://www.pinterest.com
+www.pinterest.com##.TB_.C9i.un8.ujU.jzS > div.xuA > .Hsu.iyn.zI7 > .BG7.e8F.L4E.Tbt.CCY.eEj.S9z
+www.pinterest.com##.TB_.C9i.un8.ujU.hs0 > .Hsu.iyn.zI7.jzS.Jea > .qiB
+www.pinterest.com##.TB_.C9i.un8.ujU.jzS > div.xuA > .Hsu.iyn.zI7 > .L4E.Tbt.eEj.S9z
+
+! Aug 8, 2024 https://www.politico.com
+www.politico.com##.header__right
+www.politico.com##.header__left
+www.politico.com##.collection
+
+! Aug 8, 2024 https://www.chron.com
+www.chron.com##.jcb.g40.fdc.x300px.mnw300px.lg\:f.none
+
+! Aug 8, 2024 https://www.texastribune.org
+www.texastribune.org##.fr_form
+www.texastribune.org##div.is-hidden-print.c-plugin--narrow.c-plugin--default.c-plugin:nth-of-type(3)
+www.texastribune.org##.is-hidden-print.has-giant-btm-marg.has-bg-white-off.c-story-bottom
+
+! Aug 8, 2024 https://www.nytimes.com
+www.nytimes.com###gateway-content
+www.nytimes.com###comments-speech-bubble-bigBottom
+www.nytimes.com##.commentAdjustClass
+www.nytimes.com###bottom-sheet-sensor
+
+! Aug 8, 2024 https://e360.yale.edu
+e360.yale.edu##.more-from-e360
+e360.yale.edu##.related-articles
+e360.yale.edu##.article__comments
+
+! Aug 15, 2024 https://www.thepopverse.com
+www.thepopverse.com##.trending_root__yhQlu
+www.thepopverse.com##.header_accountWrapper__LW4TR
+www.thepopverse.com##.header_secondaryNavWrapper__FR8us
+www.thepopverse.com##.header_primaryNavWrapper__KvaO4
+www.thepopverse.com##div.htmlWrapper:nth-of-type(1)
+www.thepopverse.com##.article_followPopverse__7HoG8
+www.thepopverse.com##.article_comments___rZvx
+www.thepopverse.com##.login_wrapper__ycZBB
+www.thepopverse.com##.container_bottomWrapper__5v1U3
+www.thepopverse.com##.footer_footer__mQF6i
+
+! Aug 16, 2024 https://www.pinterest.com
+www.pinterest.com##.Hsu.iyn.zI7.kKU.MMr
+
+! Aug 18, 2024 https://www.livescience.com
+www.livescience.com##.popular-box
+www.livescience.com##.trending__wrapper
+www.livescience.com##.full.legacy-container.menuitems
+www.livescience.com##.nav-subscribe
+www.livescience.com##.page-widget-area-17.widget-area-g-xl-vp-1-3.widget-area-g-lg-vp-1-3.widget-area-g-md-vp-1-3.p-u-lg-1-3.p-u-md-1-3.p-u-1.widget-area
+
+! Aug 19, 2024 https://www.ecowatch.com
+www.ecowatch.com##.article__col-2
+www.ecowatch.com##.site-header__categories-nav-wrap
+www.ecowatch.com##div.site-header__col.ew-col-mob-2.ew-col-desk-sm-4.ew-col-5:nth-of-type(1)
+www.ecowatch.com##.further-reading
+www.ecowatch.com##.article__related-posts
+www.ecowatch.com##.site-footer__categories-nav
+
+! Aug 19, 2024 https://time.com
+time.com##.lg\:block.max-w-article-sidebar.w-full.hidden.relative.article-small-sidebar
+
+! Aug 19, 2024 https://phosphoricons.com
+phosphoricons.com##.banner-container
+
+! Aug 20, 2024 https://www.planetminecraft.com
+www.planetminecraft.com###comments-display-wrap
+www.planetminecraft.com###right
+
+! Aug 22, 2024 https://www.pixiv.net
+www.pixiv.net##.gtm-manga-replytree-modal-open.jkeOhD.sc-guj11c-1
+
+! Aug 24, 2024 https://www.independent.co.uk
+www.independent.co.uk##.sidebar.snIKa.sc-cxkzvg-0
+
+! Aug 26, 2024 https://arktimes.com
+arktimes.com###main > .widget-area
+arktimes.com###site-navigation
+arktimes.com##.desktop-only.nav-wrapper
+arktimes.com###social-nav-contain
+
+! Aug 29, 2024 https://doodad.dev
+doodad.dev##.max-w-40.purple.window
+
+! Sep 1, 2024 https://developer.mozilla.org
+developer.mozilla.org##.fallback.top-banner
+
+! Sep 1, 2024 https://www.pokeharbor.com
+www.pokeharbor.com##.sidebar-sticky.widget-area.rbc-sidebar
+www.pokeharbor.com##.single-related-outer
+www.pokeharbor.com##.reaction-section
+www.pokeharbor.com##.rb-m20-gutter.navbar-inner > .navbar-right > .is-hover.trending-section > .trend-icon
+www.pokeharbor.com##.rb-m20-gutter.navbar-inner > .navbar-left > .btn-toggle-bold.btn-toggle-wrap.off-canvas-trigger
+www.pokeharbor.com##.rb-p20-gutter.navbar-inner > .navbar-right > .is-hover.trending-section
+www.pokeharbor.com##.comment-box-wrap
+www.pokeharbor.com##.author-box
+www.pokeharbor.com##.single-bottom-share
+
+! Sep 2, 2024 https://homegrownnationalpark.org
+homegrownnationalpark.org##.cpro-open.cp-module-modal_popup.cp_style_2187.cp-popup-live-wrap.cp-popup-container
+
+! Sep 5, 2024 https://www.tumblr.com
+www.tumblr.com##.lRmVC
+
+! Sep 6, 2024 https://duckduckgo.com
+duckduckgo.com##.t-m.related-searches
+duckduckgo.com##.footer
+duckduckgo.com##.go4049835442.has-preview.js-module--news.module--carousel-news.module--carousel.module
+
+! Sep 6, 2024 https://www.youtube.com
+www.youtube.com###\31
+www.youtube.com###\32
+
+! Sep 10, 2024 https://www.independent.co.uk
+www.independent.co.uk##.sidebar.iFeFcz.sc-cxkzvg-0
+www.independent.co.uk##.krdLKc.sc-1od5y3b-0
+www.independent.co.uk##.cqFjwY.sc-1pkogcm-4
+www.independent.co.uk##.iJWhrN.IrPpw.sc-jmla16-1.sc-jmla16-0
+www.independent.co.uk##.header-menu-temp-links.iUndaf.vTHhv.sc-2ar5g0-3.sc-2ar5g0-0
+www.independent.co.uk##.show-comments
+
+! Sep 10, 2024 https://people.com
+people.com##.mntl-block.mntl-recirc-section.recirc-section.comp
+people.com##.mntl-article--two-column-right-rail.mntl-article.mntl-block.people-comments.comp
+people.com##.is-visible.mntl-block.mntl-header-drawer.comp
+people.com##.mntl-header-nav.comp
+people.com##.mntl-header__menu-top > .mntl-utility-nav.comp
+people.com##.article-preheading.loc
+people.com##.mntl-comment-counter
+people.com##.mntl-sc-block-universal-featured-link--related.mntl-sc-block-universal-featured-link.people-sc-block-featuredlink.mntl-sc-block.comp
+
+! Sep 17, 2024 https://www.theguardian.com
+www.theguardian.com##.dcr-mu6xev
+www.theguardian.com##.dcr-1p1neil > .dcr-1d6g26q
+www.theguardian.com##.dcr-1hrapdy
+www.theguardian.com##header > .dcr-1xdhyk6
+
+! Sep 17, 2024 https://knowyourmeme.com
+knowyourmeme.com##.advanced-search-protips
+
+! Sep 20, 2024 https://lawandcrime.com
+lawandcrime.com##.o-callout.o-callout__recirculate
+lawandcrime.com##.c-article-sidebar
+lawandcrime.com##.c-footer-recirculation.o-fcc-full\@desktop
+lawandcrime.com##.c-header-account-wrap
+lawandcrime.com##.u-fade-hover.u-center.c-menu-btn.o-menu-btn
+lawandcrime.com##.c-header-nav-bar.o-header-nav-bar.o-nav-bar
+lawandcrime.com##nav.o-article-nav.c-article-nav:nth-of-type(2)
+
+! Sep 29, 2024 https://www.visaliatimesdelta.com
+www.visaliatimesdelta.com##a.gnt_cw_sl:nth-of-type(1)
+www.visaliatimesdelta.com##.gnt_em_vp__tavp.gnt_em
+
+! Oct 4, 2024 https://animelon.com
+animelon.com##.titanIframe
+animelon.com##.discordContainer
+animelon.com##.discordButton
+animelon.com##.homepage-donation-container
+animelon.com##.home-banner
+
+! Oct 4, 2024 https://www.twitch.tv
+www.twitch.tv##.top-nav__prime.czRfnU.Layout-sc-1xcs6mc-0
+www.twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0
+www.twitch.tv##.ebXXcv.Layout-sc-1xcs6mc-0 > div
+
+! Oct 4, 2024 https://www.pinterest.com
+www.pinterest.com##.H2s.j1A.iFc.dyH.tBJ.CKL.IZT.zDA.X8m > .BG7.e8F.kVc.CCY.DUt.S9z.NtY._74.nrl
+www.pinterest.com##.BG7.e8F.L4E.Tbt.kVc.CCY.eEj.S9z.NtY._74.nrl > .Hsu.iyn.zI7.KS5.Jea
+www.pinterest.com##.Hsu.iyn.zI7.jzS.Jea > div.Hsu.iyn.zI7 > .TB_.C9i.un8.ujU.jzS
+www.pinterest.com##.BG7.e8F.L4E.Tbt.CCY.eEj.S9z > .kVc.U9O.gUZ.Uvi
