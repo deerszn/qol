@@ -1,0 +1,10 @@
+@1*://*.wikipedia.org/*
+*://www.crunchyroll.com/*
+*://rigorousthemes.com/*
+*://bettermarketing.pub/*
+*://99designs.com/*
+*://www.bbc.com/*
+*://www.bbc.co.uk/*
+*://www.thepioneerwoman.com/*
+*://okgo.net/*
+*://bytebitebit.com/*
